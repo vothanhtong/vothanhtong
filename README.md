@@ -1,6 +1,5 @@
  👋 Hi, I’m võ thanh tòng
- 👀 I’m interested in :  Software development
- - Machine learning
+ 👀 I’m interested in:  Software development
  - Open-source projects
  🌱 I’m currently learning:
  - Python programming
