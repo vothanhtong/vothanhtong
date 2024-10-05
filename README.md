@@ -1,29 +1,18 @@
- 👋 Hi, I’m @vothanhtong
-
- 👀 I’m interested in:
-- Software development
-- Machine learning
-- Open-source projects
-
+ 👋 Hi, I’m võ thanh tòng
+ 👀 I’m interested in: Software development
+ - Machine learning
+ - Open-source projects
  🌱 I’m currently learning:
-- Python programming
-- Web development
-- Data analysis
-
+ - Python programming
+ - Web development
+ - Data analysis
  💞️ I’m looking to collaborate on:
-- Open-source projects
-- Educational resources
-- Any interesting software development projects
-
+ - Open-source projects
+ - Educational resources
+ - Any interesting software development projects
  📫 How to reach me:
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-profile
-
- 😄 Pronouns:
-- He/Him
-
-⚡ Fun fact:
-- I love to solve puzzles and learn new technologies!
+ - Email: vothanhtong9295@gmail.com
+⚡ Fun fact: I love to solve puzzles and learn new technologies!
 
 
 <!---
