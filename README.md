@@ -1,5 +1,5 @@
  👋 Hi, I’m võ thanh tòng
- 👀 I’m interested in: Software development
+ 👀 I’m interested in :  Software development
  - Machine learning
  - Open-source projects
  🌱 I’m currently learning:
