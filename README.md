@@ -3,8 +3,7 @@
 ### 🎓 Currently
 - A student majoring in **Management Information Systems**.  
 - **Teacher at [Let's Code](https://letscode.edu.vn/)**, inspiring young minds with technology.  
-  <img src="https://private-user-images.githubusercontent.com/182326251/391502819-aa943e0c-35d2-49ec-afd6-3eabcec3bc12.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMxMzUwNjMsIm5iZiI6MTczMzEzNDc2MywicGF0aCI6Ii8xODIzMjYyNTEvMzkxNTAyODE5LWFhOTQzZTBjLTM1ZDItNDllYy1hZmQ2LTNlYWJjZWMzYmMxMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwMlQxMDE5MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNDQ5ZjA1MzFkZjkyNzUyMzMzYzVhNTAxMTAzNjgyNGViNjg4OGI2ODg4NjA3YTQ5YWFmMTFhZDI4Mjk2YmVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.exfo1nBXKzp5vgjSgrz6j1z85IZ1iJkqkC6QMmgoCsY" alt="Let's Code Logo" width="150">
-
+  
 ### 👀 I’m interested in
 - Exploring new and creative programming ideas.  
 
