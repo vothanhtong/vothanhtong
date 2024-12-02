@@ -1,19 +1,20 @@
-###👋 Hi, I’m Võ Thanh Tòng
+# 👋 Hi, I’m Võ Thanh Tòng
 
 ### 🎓 Currently
 - A student majoring in **Management Information Systems**.  
 - **Teacher at [Let's Code](https://letscode.edu.vn/)**, inspiring young minds with technology.  
   
+### 🏫 Education
+- **[Nha Trang University](https://www.ntu.edu.vn/)**  
+  
 ### 👀 I’m interested in
 - Exploring new and creative programming ideas.  
+- Staying active with **sports**, especially **running**.  
 
 ### 🌱 I’m currently learning
 - **Python**  
 - **JavaScript**  
 
-### 🏫 Education
-- **[Nha Trang University](https://www.ntu.edu.vn/)**  
-  
 ### 💞️ I’m looking to collaborate on
 - **Open-source projects**  
 - **Educational resources**  
