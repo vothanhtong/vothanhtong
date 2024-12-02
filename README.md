@@ -1,22 +1,34 @@
- 👋 Hi, I’m võ thanh tòng
- 
- 👀 I’m interested in: Software development
-  - Open-source projects
-   
- 🌱 I’m currently learning: Python programming
-  - Web development
-  - Data analysis
+# 👋 Hi, I’m Võ Thanh Tòng
 
- 💞️ I’m looking to collaborate on: Open-source projects
-  - Educational resources
-  - Any interesting software development projects
+### 🎓 Currently
+- A student majoring in **Management Information Systems**.  
+- Working at **Let's Code** ([letscode.edu.vn](https://letscode.edu.vn/)), inspiring young minds with technology.  
 
- 📫 How to reach me: Email: vothanhtong9295@gmail.com
+### 👀 I’m interested in 
+- Exploring new and creative programming ideas.  
 
-⚡ Fun fact: I love to solve puzzles and learn new technologies!
+### 🌱 I’m currently learning
+- **Python programming**  
+- **Web development**  
+- **Data analysis**
+
+### 💞️ I’m looking to collaborate on
+- **Open-source projects**  
+- **Educational resources**  
+- Interesting and meaningful software development projects.  
+
+### 📫 How to reach me
+- **Email:** vothanhtong9295@gmail.com  
+- **Facebook:** [Connect with me here](https://www.facebook.com/share/1TT8smTwaq/?mibextid=LQQJ4d)  
+- **Zalo:** Scan the QR code below to connect with me!  
+
+![QR Zalo](path/to/qr-code-image.png) <!-- Replace "path/to/qr-code-image.png" with the actual path to your QR code image -->
+
+---
+
+### ⚡ Fun fact
+I love solving puzzles, exploring advanced technologies, and constantly challenging myself to learn something new!
+
+---
 
 ![Profile Banner](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
-<!---
-vothanhtong/vothanhtong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
