@@ -2,15 +2,14 @@
 
 ### 🎓 Currently
 - A student majoring in **Management Information Systems**.  
-- Working at **Let's Code** ([letscode.edu.vn](https://letscode.edu.vn/)), inspiring young minds with technology.  
+- **Teacher at [Let's Code](https://letscode.edu.vn/)**, inspiring young minds with technology.  
 
-### 👀 I’m interested in 
+### 👀 I’m interested in
 - Exploring new and creative programming ideas.  
 
 ### 🌱 I’m currently learning
-- **Python programming**  
-- **Web development**  
-- **Data analysis**
+- **Python**  
+- **JavaScript**  
 
 ### 💞️ I’m looking to collaborate on
 - **Open-source projects**  
@@ -20,11 +19,6 @@
 ### 📫 How to reach me
 - **Email:** vothanhtong9295@gmail.com  
 - **Facebook:** [Connect with me here](https://www.facebook.com/share/1TT8smTwaq/?mibextid=LQQJ4d)  
-- **Zalo:** Scan the QR code below to connect with me!  
-
-![QR Zalo](path/to/qr-code-image.png) <!-- Replace "path/to/qr-code-image.png" with the actual path to your QR code image -->
-
----
 
 ### ⚡ Fun fact
 I love solving puzzles, exploring advanced technologies, and constantly challenging myself to learn something new!
