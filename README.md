@@ -12,7 +12,7 @@
 - **JavaScript**  
 
 ### 🏫 Education
-- **[Nha Trang University](https://www.nt.edu.vn/)**  
+- **[Nha Trang University](https://www.ntu.edu.vn/)**  
   <img src="https://private-user-images.githubusercontent.com/182326251/391502757-c9197f74-489f-43be-8aef-a565dad3db43.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMxMzUwNTEsIm5iZiI6MTczMzEzNDc1MSwicGF0aCI6Ii8xODIzMjYyNTEvMzkxNTAyNzU3LWM5MTk3Zjc0LTQ4OWYtNDNiZS04YWVmLWE1NjVkYWQzZGI0My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwMlQxMDE5MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjFkMzQzN2QyOWQxZDRlNWYzODAzMmQyMmY0MGRmMWM0MWEzZmU0NTM3NjA5MWMxNzk0YzVkYWYyM2FmYjEzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iyXaIn390DqgeKkIr1C8up9gW6cETRJBbWhrxLXw_cY" alt="Nha Trang University Logo" width="150">
 
 ### 💞️ I’m looking to collaborate on
@@ -24,7 +24,7 @@
 - **Email:** vothanhtong9295@gmail.com  
 - **Facebook:** [Connect with me here](https://www.facebook.com/share/1TT8smTwaq/?mibextid=LQQJ4d)  
 - **Zalo:**  
-  <img src="https://private-user-images.githubusercontent.com/182326251/391502568-d10e555b-78d5-4143-834c-dc67480b3519.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMxMzUwMjgsIm5iZiI6MTczMzEzNDcyOCwicGF0aCI6Ii8xODIzMjYyNTEvMzkxNTAyNTY4LWQxMGU1NTViLTc4ZDUtNDE0My04MzRjLWRjNjc0ODBiMzUxOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwMlQxMDE4NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMmY0MmI2MzEyMWZhNTQxZGIyNzZlMzJlMzA1NjA4NGMyNDY0YzhiMzI1YzkwNDc5YTcwYjE0NWM1NGUwZmE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bQNd0p8sDjdNbAm4Fk5m0FIISnUN6HnHx3c22Yvg2YE" alt="Zalo QR Code" width="150">
+                                          <img src="https://private-user-images.githubusercontent.com/182326251/391502568-d10e555b-78d5-4143-834c-dc67480b3519.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMxMzUwMjgsIm5iZiI6MTczMzEzNDcyOCwicGF0aCI6Ii8xODIzMjYyNTEvMzkxNTAyNTY4LWQxMGU1NTViLTc4ZDUtNDE0My04MzRjLWRjNjc0ODBiMzUxOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwMlQxMDE4NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMmY0MmI2MzEyMWZhNTQxZGIyNzZlMzJlMzA1NjA4NGMyNDY0YzhiMzI1YzkwNDc5YTcwYjE0NWM1NGUwZmE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.bQNd0p8sDjdNbAm4Fk5m0FIISnUN6HnHx3c22Yvg2YE" alt="Zalo QR Code" width="150">
 
 ### ⚡ Fun fact
 I love solving puzzles, exploring advanced technologies, and constantly challenging myself to learn something new!
