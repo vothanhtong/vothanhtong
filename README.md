@@ -1,4 +1,4 @@
-[# 👋 Hi, I’m Võ Thanh Tòng
+###👋 Hi, I’m Võ Thanh Tòng
 
 ### 🎓 Currently
 - A student majoring in **Management Information Systems**.  
