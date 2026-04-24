@@ -11,15 +11,6 @@
 - Exploring new and creative programming ideas.  
 - Staying active with **sports**, especially **running**.  
 
-### 🌱 I’m currently learning
-- **Python**  
-- **JavaScript**  
-
-### 💞️ I’m looking to collaborate on
-- **Open-source projects**  
-- **Educational resources**  
-- Interesting and meaningful software development projects.  
-
 ### 📫 How to reach me
 - **Email:** vothanhtong9295@gmail.com  
 - **Facebook:** [Connect with me here](https://www.facebook.com/share/1TT8smTwaq/?mibextid=LQQJ4d)  
